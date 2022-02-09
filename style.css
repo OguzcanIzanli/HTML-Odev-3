@@ -1,0 +1,66 @@
+body {
+    background-color: bisque;
+    line-height: 1.6;
+}
+
+h1 {
+    color: brown;
+    font-style: italic;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    color:crimson;
+    text-decoration: underline black;
+    width: auto;
+    float: left;
+    padding: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.m-left {
+    margin-left: 50px;
+}
+
+.clear {
+    clear: both;
+}
+
+.inline {
+    color: black;
+}
+
+.window {
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    color: white;
+    background-color: crimson;
+    /* display: inline-block; */
+    border-radius: 8px;
+    padding: 1px 8px;
+    width: auto;
+    float: left;
+}
+
+.ao {
+    text-align: right;
+    font-size: 30px;
+    padding-right: 20%;
+}
